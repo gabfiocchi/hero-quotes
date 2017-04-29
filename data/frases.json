@@ -1,0 +1,39 @@
+{
+  "frases": [
+    {
+      "id":1,
+      "frase":"Todo el mundo te mira. Ellos te escuchan. Si les dices que peleen, lucharán. Pero necesitan ser inspirados. Y seamos realistas, ‘Superman’… la última vez que inspiraste a alguien… fue cuando estabas muerto.",
+      "heroe":"Batman"
+    },
+    {
+      "id":2,
+      "frase":"He trabajado tan duro para ganar su respeto, a veces se olvidan que soy de carne y hueso.",
+      "heroe":"Batman"
+    },
+    {
+      "id":3,
+      "frase":"Sólo puedo decirte lo que creo, Diana. Hay que permitir que la humanidad ascienda a su propio destino. No podemos llevarlos hasta allí.",
+      "heroe":"Superman"
+    },
+    {
+      "id":4,
+      "frase":"¿Superman? Nunca serás Superman. Porque no tienes idea de lo que significa ser Superman. No se trata de dónde naciste. O qué poderes tienes. O lo que llevas puesto en el pecho. Es sobre lo que haces… es acción.",
+      "heroe":"Superman"
+    },
+    {
+      "id":5,
+      "frase":"Los adultos… ¡son una raza extraña! Sus cerebros pesan cerca de tres libras, ¡y no son tres libras de alegre deleite!",
+      "heroe":"The Tick"
+    },
+    {
+      "id":6,
+      "frase":"En el día más brillante, en la noche más oscura, ningún mal escapará de mi vista. Que los que adoran el poder del mal, tengan cuidado de mi poder: ¡La luz de linterna verde!",
+      "heroe":"Linterna Verde"
+    },
+    {
+      "id":7,
+      "frase":"Planeamos días y días y cuando llega el momento, procedemos a improvisar.",
+      "heroe":"Quicksilver"
+    }
+  ]
+}
