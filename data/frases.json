@@ -34,6 +34,406 @@
       "id":7,
       "frase":"Planeamos días y días y cuando llega el momento, procedemos a improvisar.",
       "heroe":"Quicksilver"
+    },
+    {
+      "id":8,
+      "frase":"Tú no puedes escapar de mí. Nada me daña. Pero conozco el dolor. Yo conozco el dolor. A veces lo comparto, con alguien como tú.",
+      "heroe":"Batman"
+    },
+    {
+      "id":9,
+      "frase":"Hay un bien y un mal en el universo y esa distinción no es difícil de hacer.",
+      "heroe":"Superman"
+    },
+    {
+      "id":10,
+      "frase":"¡No estás peleando ahora con una mujer!",
+      "heroe":"Superman"
+    },
+    {
+      "id":11,
+      "frase":"¡Tienes razón! ¡Definitivamente, tomar vidas es algo que encuentro ofensivo! ¡Pero descubrir a los criminales terroristas no me molesta en absoluto!",
+      "heroe":"Superman"
+    },
+    {
+      "id":12,
+      "frase":"Ellos parecen haber cultivado poco respeto por la vida humana… Y nada es más sagrado que eso.",
+      "heroe":"Superman"
+    },
+    {
+      "id":13,
+      "frase":"Los sueños nos salvan. Los sueños nos ayudan a levantarnos y a transformarnos. Y en mi alma, juro… que hasta que mi sueño de un mundo donde la dignidad, el honor y la justicia se convierta en la realidad que todos compartimos: nunca dejaré de luchar. Nunca.",
+      "heroe":"Superman"
+    },
+    {
+      "id":14,
+      "frase":"Así que, de ahora en adelante, siempre que haya gente que necesite de mi muy especial tipo de ayuda, no será un trabajo simple y común para Clark Kent… Será un trabajo para Superman.",
+      "heroe":"Superman"
+    },
+    {
+      "id":15,
+      "frase":"Y me temo que cuando atravieso las puertas del psiquiátrico… cuando camino dentro de Arkham y las puertas se cierran detrás de mí… será como volver a casa.",
+      "heroe":"Batman"
+    },
+    {
+      "id":16,
+      "frase":"¡Con un gran poder viene una gran responsabilidad!",
+      "heroe":"Hombre Araña"
+    },
+    {
+      "id":17,
+      "frase":"El punto es: ¿qué estás devolviendo a tu comunidad? Cada cultura que ha llegado a este país ha añadido algo a ella.",
+      "heroe":"Superman"
+    },
+    {
+      "id":18,
+      "frase":"Si yo fuera un hombre normal, estaría muerto. Pero tampoco lo estoy.",
+      "heroe":"Grifter"
+    },
+    {
+      "id":19,
+      "frase":"¡No puedo predicar el odio y la guerra cuando soy una discípula de la paz y el amor!",
+      "heroe":"Mujer Maravilla"
+    },
+    {
+      "id":20,
+      "frase":"Es hora de que me enfrente mis responsabilidades. Tengo que dejar Smallville. Tengo que buscar personas y lugares que necesiten a alguien que pueda hacer las cosas que yo hago.",
+      "heroe":"Superman"
+    },
+    {
+      "id":21,
+      "frase":"Debería romper tu cara por eso, pero eso no te enseñaría del amor.",
+      "heroe":"Slaughterman"
+    },
+    {
+      "id":22,
+      "frase":"El destino te ha sonreído, Loki… te han proporcionado otra oportunidad para matarme. Tan desesperadamente me querías… Ahora me tienes. Haz lo peor.",
+      "heroe":"Thor"
+    },
+    {
+      "id":23,
+      "frase":"En este mundo, hay bien y hay mal… Y esa distinción no es difícil de hacer. Los poderes que tenemos… Las cosas que hacemos… Son para inspirar a los ciudadanos comunes… No para intimidarlos… No para aterrorizarlos.",
+      "heroe":"Superman"
+    },
+    {
+      "id":24,
+      "frase":"El patriotismo no iguala automáticamente al conservadurismo.",
+      "heroe":"Ironman"
+    },
+    {
+      "id":25,
+      "frase":"Nunca se comprometa. Ni siquiera frente a la cara del Armagedón.",
+      "heroe":"Rorschach"
+    },
+    {
+      "id":26,
+      "frase":"Prefiero no gobernar la tierra. Sólo quiero casarme con la chica de al lado y vivir en los suburbios.",
+      "heroe":"Dynamo"
+    },
+    {
+      "id":27,
+      "frase":"En mis intentos de ver claramente en la oscuridad más profunda, en mis esfuerzos por ir al inmóvil ojo en la tormenta de la locura, ¿me abrí a alguna fuente pura del mal? ¿Alcancé finalmente los límites de la razón, y encontré al diablo esperando? ¿Y estaba ese miedo en sus ojos?",
+      "heroe":"Batman"
+    },
+    {
+      "id":28,
+      "frase":"¡¡La tierra es un planeta fabuloso!! ¡Pero necesita de toda la ayuda que se pueda conseguir! ¡Incluyendo la mía!",
+      "heroe":"Superman"
+    },
+    {
+      "id":29,
+      "frase":"¿Por qué todo el mundo dice mi nombre como si significara ‘cierra la boca’?",
+      "heroe":"Jubilo"
+    },
+    {
+      "id":30,
+      "frase":"¡Estamos formando una unión, imbécil, mi pie y tu cara!",
+      "heroe":"Skateman"
+    },
+    {
+      "id":31,
+      "frase":"¡Y ahora soy mejor en hacer lo que sea que Wolverine hace!",
+      "heroe":"Deadpool"
+    },
+    {
+      "id":32,
+      "frase":"Tu lenguaje deja algo que desear.",
+      "heroe":"Thor"
+    },
+    {
+      "id":33,
+      "frase":"Creo en Jim Gordon. Creo en Harvey Dent. Creo en Gótica.",
+      "heroe":"Batman"
+    },
+    {
+      "id":34,
+      "frase":"A veces es sólo la locura lo que nos convierte en lo que somos.",
+      "heroe":"Batman"
+    },
+    {
+      "id":35,
+      "frase":"Ahora el mundo entero nos está observando. Debemos ser, nada más ni nada menos, que fabulosos.",
+      "heroe":"Emma Frost"
+    },
+    {
+      "id":36,
+      "frase":"Pase lo que pase, recuerda protegerme.",
+      "heroe":"Deadpool"
+    },
+    {
+      "id":37,
+      "frase":"¡Está en modalidad perra!",
+      "heroe":"Hank Pym"
+    },
+    {
+      "id":38,
+      "frase":"Es una notable dicotomía. De muchas maneras, Clark es el más humano de todos nosotros. Entonces… dispara fuego desde los cielos, y es difícil no pensar en él como un dios, y lo afortunados que somos todos de que no se le ocurra.",
+      "heroe":"Batman"
+    },
+    {
+      "id":38,
+      "frase":"¿Mataste a tu amigo imaginario? ¿Con qué? Con un arma imaginaria, por supuesto.",
+      "heroe":"Doom Patrol"
+    },
+    {
+      "id":39,
+      "frase":"¿Deadpool, no es así? ¿Una suerte de rima con Dead Fool? (tonto).",
+      "heroe":"Wolverine"
+    },
+    {
+      "id":40,
+      "frase":"Sí, claro… como Wolverine rima con… ¿Louver Screen? ¿Hoover Spleen? Hey, ¿qué diablos rima con Wolverine?",
+      "heroe":"Deadpool"
+    },
+    {
+      "id":41,
+      "frase":"Cálmate. Te pones tan tenso sobre tus fluidos corporales…",
+      "heroe":"Gata Negra"
+    },
+    {
+      "id":42,
+      "frase":"Créeme cuando digo que mi deseo es que la violencia no sea necesaria. Pero la violencia es el precio que pagamos por lograr un bien mayor. Como héroes, elegimos proteger ese bien con nuestras vidas.",
+      "heroe":"Superman"
+    },
+    {
+      "id":43,
+      "frase":"En mi opinión, la existencia de la vida es un fenómeno altamente sobrevalorado.",
+      "heroe":"Doctor Manhattan"
+    },
+    {
+      "id":44,
+      "frase":"Estoy hablando. Sal de mi cueva.",
+      "heroe":"Batman"
+    },
+    {
+      "id":45,
+      "frase":"La última vez que inspiraste a alguien, estabas muerto.",
+      "heroe":"Batman"
+    },
+    {
+      "id":46,
+      "frase":"Ese sería un cierto Dios del Trueno. Oh… es mejor que corras.",
+      "heroe":"Ironman"
+    },
+    {
+      "id":47,
+      "frase":"Tú pediste mi ayuda. Eso es todo lo que importa.",
+      "heroe":"Superman"
+    },
+    {
+      "id":48,
+      "frase":"Habiendo conocido al Señor Dios, puedo decir, honestamente, que es un poco huevón.",
+      "heroe":"Jesse Custer"
+    },
+    {
+      "id":49,
+      "frase":"Siempre pienso que lo tengo todo resuelto, y entonces vivo otro día, y todo se vuelve más complicado.",
+      "heroe":"Scud"
+    },
+    {
+      "id":50,
+      "frase":"No lo entiendes. No estoy atrapado aquí contigo. Tú estás atrapado aquí conmigo.",
+      "heroe":"Rorschach"
+    },
+    {
+      "id":51,
+      "frase":"¿Qué crees que representa la A? ¿Francia?",
+      "heroe":"Capitán América"
+    },
+    {
+      "id":52,
+      "frase":"¡Duh! ¿Papel o plástico? ¡Hola! ¿Tienes alguna idea de lo que las bolsas de plástico hacen al medio ambiente? ¡Soy el mensaje de muerte de Al Gore, niño!",
+      "heroe":"Deadpool"
+    },
+    {
+      "id":53,
+      "frase":"¡Habla rápido! ¡Estoy deseando destruirte!",
+      "heroe":"Hellboy"
+    },
+    {
+      "id":54,
+      "frase":"Los criminales son un montón de supersticiosos cobardes. Así que mi disfraz debe ser capaz de infundir terror en sus corazones. Debo ser una criatura de la noche, negro, terrible…",
+      "heroe":"Batman"
+    },
+    {
+      "id":55,
+      "frase":"Ese jarrón era de la dinastía Ming. Alfred me perdonará … eventualmente.",
+      "heroe":"Batman"
+    },
+    {
+      "id":56,
+      "frase":"Hice una promesa en la tumba de mis padres de que libraría a esta ciudad del mal que les quitó la vida. De día, soy Bruce Wayne, multimillonario filántropo. Por la noche, los criminales, muchos cobardes y supersticiosos me llaman… Batman.",
+      "heroe":"Batman"
+    },
+    {
+      "id":57,
+      "frase":"Desde aquí, los limpios conductos de concreto, cubiertos de mucha nieve. El trabajo de hombres que murieron hace generaciones. Desde aquí, todo parece un logro. Debería haber tomado el tren. Debería estar más cerca. Debería ver al enemigo.",
+      "heroe":"Batman"
+    },
+    {
+      "id":58,
+      "frase":"…o aprende de nuevo la diferencia entre un dios del trueno… y un hombre mortal con un traje de metal.",
+      "heroe":"Ironman"
+    },
+    {
+      "id":59,
+      "frase":"Si algún mortal llega sin ser invitado a Asgard en nombre de aquellos que se creen a sí mismos como poderosos, dentro de la hora aprenderán qué es el VERDADERO poder.",
+      "heroe":"Thor"
+    },
+    {
+      "id":60,
+      "frase":"En el fondo, Clark es esencialmente una buena persona… y en el fondo, yo no lo soy.",
+      "heroe":"Batman"
+    },
+    {
+      "id":61,
+      "frase":"Dicen que cuando matas a un hombre no sólo tomas todo lo que era, sino todo lo que será.",
+      "heroe":"Batman"
+    },
+    {
+      "id":62,
+      "frase":"He estado en demasiados funerales.",
+      "heroe":"Batman"
+    },
+    {
+      "id":63,
+      "frase":"Llévalo, Blob. He estado pateando tu gordo trasero desde que tenía trece años.",
+      "heroe":"Iceman"
+    },
+    {
+      "id":64,
+      "frase":"La próxima vez, chicos, deberíamos reconstruir este lugar fuera de Lego.",
+      "heroe":"Wolverine"
+    },
+    {
+      "id":65,
+      "frase":"¡No! No todas las espadas en Asgard, ¡No todo el poder en el universo podrá contenerme ahora!",
+      "heroe":"Thor"
+    },
+    {
+      "id":66,
+      "frase":"Gran charla de un tipo que no tiene pantalones.",
+      "heroe":"Hellboy"
+    },
+    {
+      "id":67,
+      "frase":"¡MIRA! ¡belgas desnudos!",
+      "heroe":"Hombre Araña"
+    },
+    {
+      "id":68,
+      "frase":"Y como el sol que, había tenido demasiado miedo de mostrar su rostro en esta ciudad, comenzó a convertir el negro en gris, yo sonreí, no de felicidad, sino porque yo sabía… que un día, ya no tendría que hacer esto. Un día, podría dejar de luchar. Porque un día… yo ganaría. Algún día, no habrá dolor, ni pérdida, ni crimen. Por mi causa, porque lucho, por ti. Un día, ganaré.",
+      "heroe":"Batman"
+    },
+    {
+      "id":69,
+      "frase":"Todos los hombres tienen límites. Ellos aprenden cuáles son y aprenden a no superarlos. Yo ignoro el mío.",
+      "heroe":"Batman"
+    },
+    {
+      "id":70,
+      "frase":"Hay una diferencia entre tú y yo. Ambos miramos hacia el abismo, pero cuando nos miró… tú parpadeaste.",
+      "heroe":"Batman"
+    },
+    {
+      "id":71,
+      "frase":"Y todas las putas y los políticos mirarán hacia arriba y llorarán ‘¡sálvanos!’, y yo susurraré… No.",
+      "heroe":"Rorschach"
+    },
+    {
+      "id":72,
+      "frase":"Quiero que recuerdes, Clark… en todos los años por venir… en tus momentos más privados… Quiero que recuerdes mi mano en tu garganta… Quiero que recuerdes al hombre que te venció…",
+      "heroe":"Batman"
+    },
+    {
+      "id":73,
+      "frase":"Bruce… haznos a todos un favor y COMPRA un sentido del humor.",
+      "heroe":"Superman"
+    },
+    {
+      "id":74,
+      "frase":"Las olas son sólo agua. El viento, sólo aire. Y, sin embargo, aunque el relámpago sea fuego… debe responder a la llamada del trueno.",
+      "heroe":"Thor"
+    },
+    {
+      "id":75,
+      "frase":"En este día, hemos declarado la guerra… y vengaremos los males perpetrados por los que se oponen a nosotros. Vamos a … vengarlos a todos.",
+      "heroe":"Thor"
+    },
+    {
+      "id":76,
+      "frase":"Llevo una máscara, y esa máscara, no es para ocultar quién soy, sino para crear lo que soy.",
+      "heroe":"Batman"
+    },
+    {
+      "id":77,
+      "frase":"Realmente, de eso se trata América. Esa es la manera americana. La vida, la libertad y la búsqueda de la felicidad, y de las segundas oportunidades. Ninguno de nosotros está obligado a ser algo que no quiere ser.",
+      "heroe":"Superman"
+    },
+    {
+      "id":78,
+      "frase":"Cuando era joven, sabía que sería alguien diferente cuando creciera. Me gustaría salir de casa y hacer una nueva vida para mí. Un nuevo comienzo, una segunda oportunidad.",
+      "heroe":"Superman"
+    },
+    {
+      "id":79,
+      "frase":"Las olas son sólo agua. El viento, sólo aire. Y, sin embargo, aunque el relámpago sea fuego… debe responder a la llamada del trueno.",
+      "heroe":"Thor"
+    },
+    {
+      "id":80,
+      "frase":"Cuando fui por primera vez a Metrópolis, estaba lleno de gente que había hecho lo mismo. Gente de todas partes de América, de todo el mundo, que fueron a la ciudad para vivir las vidas que querían, para ser las personas que querían ser. Esa es la idea con la que América fue fundada, pero no sólo para las personas nacidas aquí. Es para todos.",
+      "heroe":"Superman"
+    },
+    {
+      "id":81,
+      "frase":"El destino te vistió esta mañana, mi amigo, y ahora el miedo está tratando de quitarte los pantalones. ¡Si te das por vencido, si cedes, vas a terminar desnudo con Miedo que acaba de estar ahí riéndose de tus preciados pendientes!",
+      "heroe":"The Tick"
+    },
+    {
+      "id":82,
+      "frase":"Las estrellas no se miden por el tiempo que se queman … sino por cómo brillan.",
+      "heroe":"Superman"
+    },
+    {
+      "id":83,
+      "frase":"La gente piensa que es una obsesión. Una compulsión, como si hubiera un irresistible impulso por actuar. Nunca ha sido así. Elegí esta vida. Sé lo que estoy haciendo y cualquier día, podría dejar de hacerlo. Hoy, sin embargo, no es ese día. Y mañana tampoco lo será.",
+      "heroe":"Batman"
+    },
+    {
+      "id":84,
+      "frase":"Lista de deberes en la puerta del refrigerador: Reunión aplazada.",
+      "heroe":"Superman"
+    },
+    {
+      "id":85,
+      "frase":"¿Qué ves cuando me miras? ¿al niño con los zapatos que solías atar cada mañana, al adolescente al que condujiste a su primera cita? Yo soy la razón por la que los criminales respiran, más fácilmente, cuando sale el sol. Esta noche no será mi final, ¡pero será el de ellos!",
+      "heroe":"Batman"
+    },
+    {
+      "id":86,
+      "frase":"Damas. Caballeros. Han comido bien. Han comido la riqueza de Gótica. Su espíritu. Su fiesta está casi terminada. A partir de este momento, ninguno de ustedes está a salvo.",
+      "heroe":"Batman"
     }
   ]
 }

@@ -11,14 +11,14 @@ module.exports = function ensureAuthorized(req, res, next) {
         var payload = jwt.decode("req.headers.authorization".split(" ")[1], process.env.JWT_SECRET);
         // Check expiration date
         if(payload.exp > moment().unix()) {
-            // TODO comparar el token con alguna lista
+            // No está expirado, continuemos.
             next();
         } else {
             // Token expirado
             res.send(401);
         }
     } else {
-        // Si el token está expirado fuiste...
+        // Si el token no vino en el header...
         next();
         res.send(403);
     }

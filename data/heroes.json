@@ -1,0 +1,139 @@
+{
+  "heroes":[
+    {
+      "id":1,
+      "heroe":"Batman",
+      "descripcion":"Batman es un personaje creado por los estadounidenses Bob Kane y Bill Finger, y propiedad de DC Comics."
+    },
+    {
+      "id":2,
+      "heroe":"Superman",
+      "descripcion":"Superman es un personaje ficticio, un superhéroe de los cómics que aparece en las publicaciones de DC Comics."
+    },
+    {
+      "id":3,
+      "heroe":"The Tick",
+      "descripcion":"The Tick (La Garrapata) personaje ficticio, una parodia absurda del típico superheroe de los comics. Creado por el dibujante Ben Edlund, Su primera aparicion fue en la tira comica de un diario en 1986, y en 1988 debutó como comic propio, y obtuvo popularidad en el año 1994 a traves de la serie animada producida por Fox Kids."
+    },
+    {
+      "id":4,
+      "heroe":"Linterna Verde",
+      "descripcion":"Linterna Verde es el alias de varios superhéroes de la ficción del Universo DC, los cuales se caracterizan por un anillo de poder y la capacidad de crear manifestaciones de luz sólida con los susodichos anillos."
+    },
+    {
+      "id":5,
+      "heroe":"Quicksilver",
+      "descripcion":"Pietro Maximoff, alias Quicksilver, es un personaje ficticio que aparece en los cómics publicados por Marvel Comics. El personaje apareció por primera vez en X-Men nº4 y fue creado por Stan Lee y Jack Kirby."
+    },
+    {
+      "id":6,
+      "heroe":"Hombre Araña",
+      "descripcion":"Es un personaje ficticio y un superhéroe que aparece en los libros e historietas publicados por Marvel Comics. Fue creado por Stan Lee y Steve Ditko."
+    },
+    {
+      "id":7,
+      "heroe":"Grifter",
+      "descripcion":"Es un superhéroe del antiguo sello editorial Wildstorm Studios, e Image, y que hoy pertenece a la editorial DC Comics. Se le conoce por haber integrado el Equipo Siete y además de ser conocido como miembro de WildC.AT.s, pero desde 1999 se convirtió en propiedad de la editorial DC Comics en un principio como parte del antiguo Universo Wildstorm, pero que hace parte de la continuidad del Universo DC desde 2011, al integrar ambos universos y el cierre del sello editorial Wildstorm."
+    },
+    {
+      "id":8,
+      "heroe":"Mujer Maravilla",
+      "descripcion":"Es una superheroína ficticia creada por William Moulton Marston para la editorial DC Comics. El personaje es una princesa guerrera de las amazonas (basado en la mitológica raza de las amazonas de la mitología griega) y es conocida en su tierra natal como la princesa Diana de Themyscira."
+    },
+    {
+      "id":9,
+      "heroe":"Slaughterman",
+      "descripcion":"Hero from Comico magazine"
+    },
+    {
+      "id":10,
+      "heroe":"Thor",
+      "descripcion":"Thor Odinson es un príncipe-guerrero Asgardiano, el Dios del Trueno, y un protector auto-proclamado de la Tierra. Thor, posteriormente, se volvió muy conocido por sus acciones en la Tierra."
+    },
+    {
+      "id":11,
+      "heroe":"Ironman",
+      "descripcion":"Anthony Edward 'Tony' Stark o mejor conocido como El Hombre de Hierro u originalmente Iron Man, es un superhéroe que aparece en los cómics publicados por Marvel Comics."
+    },
+    {
+      "id":12,
+      "heroe":"Rorschach",
+      "descripcion":"Rorschach es un antihéroe ficticio coprotagonista de la aclamada serie de Alan Moore y Dave Gibbons, Watchmen, publicada por DC Comics entre 1986 y 1987."
+    },
+    {
+      "id":13,
+      "heroe":"Dynamo",
+      "descripcion":"Captain Dynamo (real name William Warner[1]) is a fictional comic book superhero, created by writer Jay Faerber and artist Fran Bueno, who first appeared as a supporting character in Noble Causes: Extended Family #2 (June 2004[2]) by Image Comics."
+    },
+    {
+      "id":14,
+      "heroe":"Jubilo",
+      "descripcion":"Júbilo es un personaje ficticio, superhéroe de Marvel Comics asociado con los X-Men. Creada por el escritor Chris Claremont y el ilustrador Marc Silvestri, apareció por primera vez en Uncanny X-Men #244."
+    },
+    {
+      "id":15,
+      "heroe":"Skateman",
+      "descripcion":"Skateman was a comic book produced by Neal Adams, and published by Pacific Comics in November 1983. It is primarily known as an industry curiosity, a widely derided comic produced by one of comics' most highly regarded and influential creators."
+    },
+    {
+      "id":16,
+      "heroe":"Deadpool",
+      "descripcion":"Wade Winston Wilson, más conocido como Deadpool, es un personaje ficticio, mercenario y héroe, que aparece en los cómics publicados por Marvel Comics. Creado por el artista Rob Liefeld, Deadpool apareció por primera vez en New Mutants #98."
+    },
+    {
+      "id":17,
+      "heroe":"Emma Frost",
+      "descripcion":"Emma Grace Frost, es un personaje ficticio del cómic X-Men de la editorial Marvel Comics. Creada por Chris Claremont y John Byrne, hace su debut en Uncanny X-Men vol. 1 # 129, en enero de 1980."
+    },
+    {
+      "id":18,
+      "heroe":"Hank Pym",
+      "descripcion":"El Dr. Henry 'Hank' Pym es un personaje ficticio que aparece en publicaciones de Marvel Comics. Creado por el editor y escritor Stan Lee, el guionista Larry Lieber y el dibujante Jack Kirby."
+    },
+    {
+      "id":19,
+      "heroe":"Doom Patrol",
+      "descripcion":"La Patrulla Condenada (Doom Patrol en su idioma original) es un equipo de superhéroes perteneciente a la editorial DC Comics, todos ellos 'marginados con unos poderes que jamás pidieron'. Entre ellos reina la discordia, la desconfianza o el resentimiento, por lo que sus relaciones son tensas."
+    },
+    {
+      "id":20,
+      "heroe":"Wolverine",
+      "descripcion":"Wolverine, cuyo nombre de nacimiento es James Howlett es un personaje ficticio, superhéroe de Marvel Comics, miembro de los X-Men. "
+    },
+    {
+      "id":21,
+      "heroe":"Gata Negra",
+      "descripcion":"La Gata Negra es un personaje ficticio, una superheroina del Universo Marvel. Fue creada por el escritor Marv Wolfman y el artista Keith Pollard y debutó en Amazing Spiderman #194."
+    },
+    {
+      "id":22,
+      "heroe":"Doctor Manhattan",
+      "descripcion":"El Doctor Manhattan es un personaje ficticio que aparece en la serie Watchmen de DC comics. Tras quedar encerrado accidentalmente dentro de una cámara de pruebas durante un experimento de física nuclear, su cuerpo es desintegrado completamente."
+    },
+    {
+      "id":23,
+      "heroe":"Jesse Custer",
+      "descripcion":"Jesse Custer es un personaje de ficción, protagonista del cómic Preacher, escrito por Garth Ennis e ilustrado por Steve Dillon, publicado por DC Comics."
+    },
+    {
+      "id":24,
+      "heroe":"Scud",
+      "descripcion":"Scud is a disposable Heart Breaker Series 1373 model assassin whose job is to kill the target his programed to kill and then self destruct."
+    },
+    {
+      "id":25,
+      "heroe":"Capitán América",
+      "descripcion":"El Capitán América es un justiciero ficticio que aparece en cómics estadounidenses publicados por Marvel Comics."
+    },
+    {
+      "id":26,
+      "heroe":"Hellboy",
+      "descripcion":"Hellboy es un personaje ficticio creado por Mike Mignola en 1994 para el sello Legends de la editorial de cómics estadounidense Dark Horse. Se han realizado dos películas sobre este personaje, Hellboy en 2004 y Hellboy 2: El ejército dorado en 2008."
+    },
+    {
+      "id":27,
+      "heroe":"Iceman",
+      "descripcion":"El Hombre de Hielo es un superhéroe de un cómic de historietas del Universo Marvel, y un miembro original y vigente de los X-Men."
+    }
+  ]
+}
